@@ -1,0 +1,2 @@
+# Snax
+Discord Security Bot
